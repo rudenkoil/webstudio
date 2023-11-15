@@ -12,3 +12,31 @@
     text-decoration: none;
     font-size: 1em;
 }
+.base_team{
+    text-align: center;
+} 
+.conteiner{
+    display: flex;
+}
+.conteiner li{
+    display: block;
+    text-decoration: none;
+}
+.foto_list{
+    display: flex;
+    justify-content: space-between;
+  
+}
+.foto_list li{
+    display: block;
+    padding: 2em;
+    margin: 2em;
+    text-decoration: none;
+}
+.client_list{
+    display: flex;
+    justify-content: space-between;
+}
+.client_list li{
+    display: block;
+}
